@@ -11,7 +11,6 @@ A simple command-line calculator built with CoffeeScript, featuring basic arithm
   - Square root
   - Nth root
   - Logarithms (base 10 and base 2)
-- **Fraction Conversion:** Convert decimal numbers to fractions.
 
 ## Prerequisites
 
