@@ -31,7 +31,6 @@ A simple command-line calculator built with CoffeeScript, featuring basic arithm
 - Install mathjs using npm:
 
   ```sh
-  Copy code
   npm install mathjs
   ```
 - Install CoffeeScript (if not already installed):
