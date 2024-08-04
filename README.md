@@ -41,7 +41,7 @@ A simple command-line calculator built with CoffeeScript, featuring basic arithm
   npm install -g coffee-script
   ```
 
-- Usage
+## Usage
 -   Compile the CoffeeScript Code:
   
   ```sh
